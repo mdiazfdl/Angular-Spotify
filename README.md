@@ -1,1 +1,1 @@
-# Angular-Spotify
+# Spotify
